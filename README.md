@@ -31,7 +31,6 @@ A modern, theme-aware weather dashboard built with React and the Catppuccin colo
   - ☕ Macchiato (Dark Medium)
   - 🍫 Mocha (Dark)
 - **Responsive Design**: Seamlessly adapts to any screen size
-- **Data Export**: Download weather data in JSON format
 
 ## 🚀 Installation
 
