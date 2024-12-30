@@ -13,6 +13,10 @@ A modern, theme-aware weather dashboard built with React and the Catppuccin colo
 
 </div>
 
+![alt text](https://cloud-7qrh14p92-hack-club-bot.vercel.app/0image.png)
+![alt text](https://cloud-7qrh14p92-hack-club-bot.vercel.app/1image.png)
+![alt text](https://cloud-7qrh14p92-hack-club-bot.vercel.app/2image.png)
+
 ## ✨ Features
 
 - **Real-time Weather Data**: Fetch current weather conditions for any city worldwide
